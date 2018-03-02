@@ -1,4 +1,4 @@
-# ng2-currency-mask
+# mmq-currency-mask
 
 A very simple currency mask directive for Angular that allows using a number attribute with the ngModel. In other words, the model is a number, and not a string with a mask. You should use the version 2.x.x for Angular 2.x.x applications and the version 4.x.x for Angular 4.x.x applications.
 
@@ -11,7 +11,7 @@ Note: This component is ready to AoC (Ahead-of-Time) compilation.
 Install the package by command:
 
 ```sh
-    npm install ng2-currency-mask --save
+    mmq install ng2-currency-mask --save
 ```
 
 Import the module
