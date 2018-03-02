@@ -11,13 +11,13 @@ Note: This component is ready to AoC (Ahead-of-Time) compilation.
 Install the package by command:
 
 ```sh
-    mmq install ng2-currency-mask --save
+    npm install mmq-currency-mask --save
 ```
 
 Import the module
 
 ```ts
-import { CurrencyMaskModule } from "ng2-currency-mask";
+import { CurrencyMaskModule } from "mmq-currency-mask";
 
 @NgModule({
     imports: [
