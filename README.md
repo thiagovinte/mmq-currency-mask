@@ -60,7 +60,7 @@ Available options:
 You can also set options globally...
 
 ```ts
-import { CurrencyMaskModule } from "ng2-currency-mask";
+import { CurrencyMaskModule } from "mmq-currency-mask";
 import { CurrencyMaskConfig, CURRENCY_MASK_CONFIG } from "ng2-currency-mask/src/currency-mask.config";
 
 export const CustomCurrencyMaskConfig: CurrencyMaskConfig = {
