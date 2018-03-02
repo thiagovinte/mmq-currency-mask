@@ -1,6 +1,6 @@
 ﻿{
   "name": "mmq-currency-mask",
-  "version": "4.4.1",
+  "version": "4.4.3",
   "description": "A very simple currency mask directive that allows using a number attribute with the ngModel.",
   "repository": {
     "type": "git",
